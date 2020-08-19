@@ -2,8 +2,8 @@ import sys
 import time
 import argparse
 from datetime import datetime
-from base import MiBand2
-from constants import ALERT_TYPES
+from MiPyBand2.base import MiBand2
+from MiPyBand2.constants import ALERT_TYPES
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-s', '--standard',  action='store_true',help='Shows device information')

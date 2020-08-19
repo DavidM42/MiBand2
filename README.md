@@ -1,4 +1,4 @@
-# MiBand2
+# MiPyBand2
 Library to work with Xiaomi MiBand 2 (Support python2/python3)
 [Read the Article here](https://medium.com/@a.nikishaev/how-i-hacked-xiaomi-miband-2-to-control-it-from-linux-a5bd2f36d3ad)
 
@@ -6,9 +6,6 @@ Library to work with Xiaomi MiBand 2 (Support python2/python3)
 1) Base lib provided by [Leo Soares](https://github.com/leojrfs/miband2)
 2) Additional debug & fixes was made by my friend [Volodymyr Shymanskyy](https://github.com/vshymanskyy/miband2-python-test)
 3) Some info that really helped i got from [Freeyourgadget team](https://github.com/Freeyourgadget/Gadgetbridge/tree/master/app/src/main/java/nodomain/freeyourgadget/gadgetbridge/service/devices/huami/miband2)
-
-## Online Course "Object Detection with PyTorch"
-Subscribe to my new online course: [LearnML.Today](http://learnml.today/)
 
 # Run 
 

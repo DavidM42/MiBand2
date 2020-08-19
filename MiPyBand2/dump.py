@@ -1,7 +1,7 @@
 import sys
 import os
 import time
-from base import MiBand2
+from MiPyBand2.base import MiBand2
 from bluepy.btle import BTLEException
 
 MAC = sys.argv[1]
